@@ -25,14 +25,17 @@ Ouvrez un terminal (Commande Dos, Terminal Linux ou Windows, Terminal intégré 
 En prenant pour exemple le fichier 0 - Hello world.go : 
 
 Pour créer un exécutable : 
-go build 0 - Hello world.go
+
+**go build 0 - Hello world.go**
 
 Cela génèrera un .exe que vous pourrez jouer par la suite
-0 - Hello world.exe
+
+**0 - Hello world.exe**
 
 
 Pour exécuter en direct le fichier sans créer d'exécutable
-go run 0 - Hello world.go
+
+**go run 0 - Hello world.go**
 
 Même chose pour les fichiers de 0 à 6
 
@@ -42,8 +45,8 @@ Vous devriez avoir un Hello! dans la page en retour
 
 Pour le main.go dans le dossier structs, se rendre dans le terminal 
 
-cd structs
+**cd structs**
 
 et faire 
 
-go run main.go
+**go run main.go**
