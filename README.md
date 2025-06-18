@@ -1,6 +1,6 @@
 # Meetup
 
-Ce dépôt accompagne le meetup "Rust & Go, les petits nouveaux", données par Florent Le Bail et moi-même le 17/09/2024.
+Ce dépôt accompagne le meetup "Rust & Go, les petits nouveaux", données par Florent Le Bail et moi-même le 17/09/2024 : https://www.youtube.com/watch?v=geCw4P5QW9g
 
 Les slides sont disponibles ici : https://gamma.app/docs/Rust-GO-r8ka175hkx08b03?mode=doc
 
